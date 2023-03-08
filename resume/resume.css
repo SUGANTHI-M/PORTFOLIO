@@ -1,0 +1,57 @@
+
+h4{
+    background-color: rgba(56, 170, 190, 0.842);
+    height: 25px;
+    text-align: center;
+}
+mark{
+    background-color: rgb(255, 70, 70);
+}
+img{
+    width: 100px;
+    height: 110px;
+    border-style: outset;
+}
+a.ld:hover{
+    color: red;
+}
+a.gt:hover{
+    color: red;
+}
+fieldset.brdr{
+    border-radius: 20px; 
+    border-width: 8px; 
+    border-style: solid; 
+    border-color: black; 
+    background-color: rgb(224, 224, 224);
+}
+legend.brdr{
+    border-style: inset;  
+    background-color: rgb(224, 224, 224); 
+    border-color: black;
+}
+p::first-letter{
+    font-size: xx-large;
+}
+p::first-line{
+    font-size: small-caps;
+    font-weight: bolder;
+} 
+img{
+    border-radius: 20px;
+}
+.column1{
+    float: left;
+    width: 49%;
+    
+}
+.column2{
+    float: right;
+    width: 49%;
+}
+
+h5{
+    background-color: rgba(56, 170, 190, 0.842);
+    height: 25px;
+    text-align: center;
+}
